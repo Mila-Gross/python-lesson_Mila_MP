@@ -3,4 +3,4 @@
 hier wichtiges zu Jupyter Notebooks
 - **Mila**
 - Datum: 19-01-2021
-- Ort: 
+- Ort: online
